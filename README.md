@@ -51,6 +51,7 @@ CREATE TABLE bookings (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE CASCADE,
    );
+
 4.In the XAMPP CONTROL PANEL start the mysql and apache server
 5.Run the Application:
   i)Place the project folder in your web server’s root directory.
