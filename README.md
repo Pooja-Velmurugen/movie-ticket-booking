@@ -31,7 +31,7 @@ Google Fonts for enhanced typography
 Bootstrap for responsive design
 
 TO RUN:
-1. clone and extract this file[save this file inside the programfiles->xampp->htdocs]
+1. clone and extract this file[save this file inside the xampp->htdocs]
 2. create database called movie_ticket_booking
 3. insert database create the table called users and bookings table
 sql query for the users and booking table:
